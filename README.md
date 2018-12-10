@@ -1,4 +1,4 @@
-# bitSegment
+# bitSegment (WIP)
 
 A small command line utility to read from and write to a file in 
 bit sizes less than the standard 8-bit byte. Possible segment size 
